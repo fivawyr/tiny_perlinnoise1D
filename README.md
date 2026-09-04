@@ -13,6 +13,7 @@ $$
 Noise(x) = \displaystyle\sum_{i = 0}^N - 1 \frac{Noise(b^ix)}{a^i}
 $$
 
+![Screenshot](resources/screenshot.png)
 > Screenshot from the simulation
 
 ### Resources
