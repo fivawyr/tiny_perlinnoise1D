@@ -5,8 +5,8 @@
 
 $$
 formula: 
-\frac{1}{f^n} \rarr for occur natural processes 
-Noise(x), where x is a vector in 1,2,3 > dimensions 
+\frac{1}{f^n} \rightarrow for occur natural processes 
+Noise(x), where x is a vector (in 1,2,3 > dimensions)
 $$
 
 $$
